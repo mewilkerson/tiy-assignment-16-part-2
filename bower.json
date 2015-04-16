@@ -1,0 +1,18 @@
+{
+  "name": "tiy-assignment-16-part-2",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Wilkerson <mattisonwilkerson@gmail.com>"
+  ],
+  "description": "JavaScript library with tests",
+  "main": "functions.html",
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
